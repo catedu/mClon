@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>La placa electrónica · GitBook</title>
+        <title>Sensores · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -69,10 +69,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="motores.html" />
+    <link rel="next" href="../creditos.html" />
     
     
-    <link rel="prev" href="../propuesta/partesimpresas.html" />
+    <link rel="prev" href="motores.html" />
     
 
     </head>
@@ -167,7 +167,7 @@
         
         
     
-        <li class="chapter active" data-level="3.1" data-path="placa.html">
+        <li class="chapter " data-level="3.1" data-path="placa.html">
             
                 <a href="placa.html">
             
@@ -193,7 +193,7 @@
             
         </li>
     
-        <li class="chapter " data-level="3.3" data-path="sensores.html">
+        <li class="chapter active" data-level="3.3" data-path="sensores.html">
             
                 <a href="sensores.html">
             
@@ -256,7 +256,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >La placa electrónica</a>
+        <a href=".." >Sensores</a>
     </h1>
 </div>
 
@@ -271,12 +271,22 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="placa-electr&#xF3;nica">Placa electr&#xF3;nica</h1>
-<p>El robot mClon como mBot son sistemas basados en Arudino. La placa controladora es pues un Arduino pero como veremos en <a href="https://catedu.github.io/mClon/propuesta/opciones.html" target="_blank">opciones</a> en vez de un Arduino UNO vamos a utilizar un RobotDyn UNO pues posibilita la utilizaci&#xF3;n del sensor de luz y del bot&#xF3;n en placa.</p>
-<p><img src="../assets/robodyn.jpg" alt=""></p>
-<p><em>Fuente: Adaptado de <a href="https://tecnoloxia.org/mclon/" target="_blank">https://tecnoloxia.org/mclon/</a> Maria L CC-BY-SA</em></p>
-<p><img src="../assets/mClon_cabezallo21.jpg" alt=""></p>
+                                <h1 id="sensores">SENSORES</h1>
+<h1 id="sensor-sigue-l&#xED;neas-infrarojos">Sensor sigue l&#xED;neas infrarojos</h1>
+<p>Utilizamos el tracker sensor TCRT5000</p>
+<p><img src="../assets/trackersensor.jpg" alt=""></p>
+<p>Tal y como hemos explicado en <a href="https://catedu.github.io/mClon/propuesta/partesimpresas.html" target="_blank">Partes impresas</a> no tiene que estar cerca de la l&#xED;nea.</p>
+<p>En <a href="https://tecnoloxia.org/mclon/robotica/os-sensores-ir-de-lina/" target="_blank">https://tecnoloxia.org/mclon/robotica/os-sensores-ir-de-lina/</a> explica muy bien c&#xF3;mo funciona:</p>
+<p><img src="../assets/SensorIR.png" alt=""></p>
 <p><em>Fuente: <a href="https://tecnoloxia.org/mclon/" target="_blank">https://tecnoloxia.org/mclon/</a> Maria L      CC-BY-SA</em></p>
+<h1 id="sensor-evita-obst&#xE1;culos-ultrasonidos">Sensor evita obst&#xE1;culos ultrasonidos</h1>
+<p>Se utiliza el sensor HC-SR04</p>
+<p><img src="../assets/sensorUS.jpg" alt=""></p>
+<p>En <a href="https://tecnoloxia.org/mclon/robotica/o-sensor-ultrasonico/" target="_blank">https://tecnoloxia.org/mclon/robotica/o-sensor-ultrasonico/</a> explica muy bien c&#xF3;mo funciona:</p>
+<p><img src="../assets/ultrasonico_grafico.png" alt=""></p>
+<h1 id="sensor-de-luz">Sensor de luz</h1>
+<p>Es un LDR que conectado en serie con una resistencia nos proporciona un valor de tensi&#xF3;n, pues el LDR var&#xED;a su resistencia con la luz (a m&#xE1;s luz, menos resistencia)</p>
+<p><img src="../assets/ldr.jpg" alt=""></p>
 <p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://tecnoloxia.org/wp-content/uploads/Cc-by-sa_icon-1.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">mClon</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Adapdato de https://tecnoloxia.org/mclon</span> bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License</a>.</p>
 </div></p>
 
@@ -306,12 +316,12 @@
 
             
                 
-                <a href="../propuesta/partesimpresas.html" class="navigation navigation-prev " aria-label="Previous page: Partes impresas">
+                <a href="motores.html" class="navigation navigation-prev " aria-label="Previous page: Motores">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="motores.html" class="navigation navigation-next " aria-label="Next page: Motores">
+                <a href="../creditos.html" class="navigation navigation-next " aria-label="Next page: Créditos">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -322,7 +332,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"La placa electrónica","level":"3.1","depth":1,"next":{"title":"Motores","level":"3.2","depth":1,"path":"como/motores.md","ref":"como/motores.md","articles":[]},"previous":{"title":"Partes impresas","level":"2.3","depth":1,"path":"propuesta/partesimpresas.md","ref":"propuesta/partesimpresas.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"<nombre-del-repo>"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/<nombre-del-repo>/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"mClon","authors":["Adapdato de https://tecnoloxia.org/mclon","________________"],"collaborators":[{"name":"_________","edited":"_____________"}]},"language":"es","gitbook":"*"},"file":{"path":"como/placa.md","mtime":"2021-09-11T19:02:03.807Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-09-11T19:02:50.244Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Sensores","level":"3.3","depth":1,"next":{"title":"Créditos","level":"4.1","depth":1,"path":"creditos.md","ref":"creditos.md","articles":[]},"previous":{"title":"Motores","level":"3.2","depth":1,"path":"como/motores.md","ref":"como/motores.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"<nombre-del-repo>"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/<nombre-del-repo>/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"mClon","authors":["Adapdato de https://tecnoloxia.org/mclon","________________"],"collaborators":[{"name":"_________","edited":"_____________"}]},"language":"es","gitbook":"*"},"file":{"path":"como/sensores.md","mtime":"2021-09-11T19:02:03.807Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-09-11T19:02:50.244Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

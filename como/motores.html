@@ -69,7 +69,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../creditos.html" />
+    <link rel="next" href="sensores.html" />
     
     
     <link rel="prev" href="placa.html" />
@@ -193,6 +193,19 @@
             
         </li>
     
+        <li class="chapter " data-level="3.3" data-path="sensores.html">
+            
+                <a href="sensores.html">
+            
+                    
+                    Sensores
+            
+                </a>
+            
+
+            
+        </li>
+    
 
     
         
@@ -258,14 +271,16 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="motores">Motores</h1>
+                                <h1 id="1--motores">1.- Motores</h1>
+<p>Los motores son de corriente cont&#xED;nua sin control de su posici&#xF3;n, es deicr, s&#xF3;lo podemos controlar su sentido de giro y su potencia.</p>
+<p><img src="../assets/motor.jpg" alt=""></p>
 <p>El control de los motores implicar&#xE1; poner en el escudo Protoboard dos circuitos integrados y su cableado correspondiente, vamos a verlo:</p>
-<h2 id="driver-motor-b6612fng">Driver motor B6612FNG</h2>
+<h2 id="11--driver-motor-b6612fng">1.1.- Driver motor B6612FNG</h2>
 <p>Para realizar el control de los motores, tanto su potencia como su sentido de giro se va a utilizar el controlador <strong>TB6612FNG</strong></p>
 <p><img src="../assets/driver_explicacion.png" alt=""></p>
 <p><em>Fuente: <a href="https://tecnoloxia.org/mclon/" target="_blank">https://tecnoloxia.org/mclon/</a> Maria L      CC-BY-SA</em></p>
 <p>La potencia de los motores se controla por los pines PWMA y PWMB indicando un valor entre 0 y 255.</p>
-<h2 id="los-giros-una-complicaci&#xF3;n-m&#xE1;s-7404">Los giros, una complicaci&#xF3;n m&#xE1;s: 7404</h2>
+<h2 id="12--los-giros-una-complicaci&#xF3;n-m&#xE1;s-7404">1.2.- Los giros, una complicaci&#xF3;n m&#xE1;s: 7404</h2>
 <p>Los giros se controlan con los pines AIN, por ejemplo para el motor A :</p>
 <table>
 <thead>
@@ -291,9 +306,14 @@
 <p>Para no gastar dos pines del Arduino para esta funci&#xF3;n, un truco consiste en gastar s&#xF3;lo uno, y el otro que sea el inverso de ese mismo. Ese truco es lo que utiliza mBot y si queremos compatibilidad mClon y mBot tenemos que hacerlo.</p>
 <p>Pero esto implica tener que utilizar un <strong>circuito impreso m&#xE1;s</strong>, el 7404 que tiene 4 inversores :</p>
 <p><img src="../assets/7404-2.png" alt=""></p>
-<h3 id="otra-opci&#xF3;n-para-los-giros">Otra opci&#xF3;n para los giros</h3>
+<h3 id="121--otra-opci&#xF3;n-para-los-giros">1.2.1.- Otra opci&#xF3;n para los giros</h3>
 <p>Tal y como dice la p&#xE1;gina <a href="https://tecnoloxia.org/mclon/robotica/o-control-dos-motores/" target="_blank">https://tecnoloxia.org/mclon/robotica/o-control-dos-motores/</a> tambi&#xE9;n se puede utilizar dos transistores y resistencias, (de echo, mBot lo hace as&#xED;) pero no lo utilizaremos, pues pensamos que es m&#xE1;s c&#xF3;modo el 7404.</p>
-<p><img src="../assets/mClon_cabezallo11.jpg" alt=""></p>
+<h1 id="2-servomotores">2.-Servomotores</h1>
+<p>Son motores que s&#xED; tenemos control del giro, es decir, que podemos ordenar que gire un &#xE1;ngulo determinado.</p>
+<p>Utilizaremos en mBlock la instrucci&#xF3;n</p>
+<p><img src="../assets/instruccionservo.jpg" alt=""></p>
+<p>Utilizaremos el servo colocado a un lado para insertar el brazo rob&#xF3;tico:</p>
+<p><img src="../assets/servoBrazo5-300x225.jpg" alt=""></p>
 <p><em>Fuente: <a href="https://tecnoloxia.org/mclon/" target="_blank">https://tecnoloxia.org/mclon/</a> Maria L      CC-BY-SA</em></p>
 <p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://tecnoloxia.org/wp-content/uploads/Cc-by-sa_icon-1.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">mClon</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Adapdato de https://tecnoloxia.org/mclon</span> bajo licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License</a>.</p>
 </div></p>
@@ -329,7 +349,7 @@
                 </a>
                 
                 
-                <a href="../creditos.html" class="navigation navigation-next " aria-label="Next page: Créditos">
+                <a href="sensores.html" class="navigation navigation-next " aria-label="Next page: Sensores">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -340,7 +360,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Motores","level":"3.2","depth":1,"next":{"title":"Créditos","level":"4.1","depth":1,"path":"creditos.md","ref":"creditos.md","articles":[]},"previous":{"title":"La placa electrónica","level":"3.1","depth":1,"path":"como/placa.md","ref":"como/placa.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"<nombre-del-repo>"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/<nombre-del-repo>/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"mClon","authors":["Adapdato de https://tecnoloxia.org/mclon","________________"],"collaborators":[{"name":"_________","edited":"_____________"}]},"language":"es","gitbook":"*"},"file":{"path":"como/motores.md","mtime":"2021-09-11T16:03:49.960Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-09-11T16:04:29.981Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Motores","level":"3.2","depth":1,"next":{"title":"Sensores","level":"3.3","depth":1,"path":"como/sensores.md","ref":"como/sensores.md","articles":[]},"previous":{"title":"La placa electrónica","level":"3.1","depth":1,"path":"como/placa.md","ref":"como/placa.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"<nombre-del-repo>"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/<nombre-del-repo>/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"mClon","authors":["Adapdato de https://tecnoloxia.org/mclon","________________"],"collaborators":[{"name":"_________","edited":"_____________"}]},"language":"es","gitbook":"*"},"file":{"path":"como/motores.md","mtime":"2021-09-11T19:02:03.807Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-09-11T19:02:50.244Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
