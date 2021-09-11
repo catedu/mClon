@@ -4,9 +4,9 @@
 
 ## Capítulo 1
 
-* [Apartado uno capítulo 1](capitulo-uno/README.md)
-* [Apartado dos capítulo 1](capitulo-uno/apartado-1.md)
-  * [Subapartado](capitulo-uno/subapartado.md)
+* [Opciones](capitulo-uno/opciones.md)
+* [Accesorios](capitulo-uno/accesorios.md)
+* [Partes impresas](capitulo-uno/partesimpresas.md)
 
 ## Capítulo 2
 
