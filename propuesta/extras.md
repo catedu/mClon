@@ -12,6 +12,8 @@ Hay ciertos extras que vamos a añadir a nuestro mClon para ser compatible con e
 
 ![](/assets/mBot-300x266.png)
 
+_Fuente Makeblock_
+
 ## B.- Extras que no vienen con el kit básico mBot
 
 ### B1.- BRAZO

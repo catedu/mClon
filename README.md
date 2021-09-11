@@ -7,3 +7,5 @@ Tal y como dice https://tecnoloxia.org/mclon/que-e-mclon/
 Es un proyecto de hardware y software gratuito . Puede ser montado por quien lo desee, adaptándolo a sus propios fines, necesidades o deseos."
 
 ![](/assets/mClon_cabezallo7.jpg)
+
+_Fuente: https://tecnoloxia.org/mclon CC-BY-SA_

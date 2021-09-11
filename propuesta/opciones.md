@@ -7,6 +7,8 @@ Elegimos la opción impresa por ser la más adaptable para el docente, en el cap
 
 ![](/assets/chasis2-300x219.png)
 
+_Fuente: https://tecnoloxia.org/mclon CC-BY-SA_
+
 ## 2 Tarjeta electrónica
 
 Estabamos tentados de usar el ARDUINO ONE pues es la que se encuentra más extendida y la más barata **pero tiene una desventaja: no tiene los pines A6 y A7** esto imposibilida las instrucciones:
