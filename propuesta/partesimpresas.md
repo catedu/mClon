@@ -1,4 +1,4 @@
-# PARTES IMPRESAS
+# 2.3 PARTES IMPRESAS
 
 En la web https://tecnoloxia.org/mclon/estrutura/impresion-3d/ tenemos la última versión de los modelos 3D para descargarlos y los consejos para su impresión.
 
@@ -11,7 +11,7 @@ Nosotros utilizaremos (para descargar la última versión de estos ficheros ir a
 * **Brazo robótico** con sorporte para el servo [ServoBrazo.stl](hhttps://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
 * El **led RGB** el derecho [RGB-der.stl](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing) y el izquierdo [RGB-esq.stl](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
 
-## ATENCIÓN: EXCEPCIÓN
+## 2.3.1 ATENCIÓN: EXCEPCIÓN
 
 El **soporte de sensor de línea y bola loca**, no vamos a utilizar el que propone, pues hemos observado (al menos con nuestros sensores de siguelíneas) que **NO** detectaban bien las líneas negras y blancas pues estaban los sensores muy cerca del suelo, por lo que hemos cambiado el diseño original subiéndolo al máximo:
 

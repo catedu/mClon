@@ -2,17 +2,20 @@
 
 * [Introducción](README.md)
 
-## Propuesta CATEDU
+## 1 ¿Cómo es mClon?
 
-* [Opciones](propuesta/opciones.md)
-* [Accesorios](propuesta/extras.md)
-* [Partes impresas](propuesta/partesimpresas.md)
+* [1.1 La placa electrónica](como/placa.md)
+* [1.2 Motores](como/motores.md)
+* [1.3 Sensores](como/sensores.md)
+* [1.4 Accesorios](como/accesorios.md)
 
-## ¿Cómo es mClon?
+## 2 Propuesta de montaje
 
-* [La placa electrónica](como/placa.md)
-* [Motores](como/motores.md)
-* [Sensores](como/sensores.md)
+* [2.1 Opciones](propuesta/opciones.md)
+* [2.2 Accesorios](propuesta/extras.md)
+* [2.3 Partes impresas](propuesta/partesimpresas.md)
+
+
 
 ---
 

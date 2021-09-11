@@ -1,4 +1,4 @@
-# Placa electrónica
+# 1.1 Placa electrónica
 
 El robot mClon como mBot son sistemas basados en Arudino. La placa controladora es pues un Arduino pero como veremos en [opciones](https://catedu.github.io/mClon/propuesta/opciones.html) en vez de un Arduino UNO vamos a utilizar un RobotDyn UNO pues posibilita la utilización del sensor de luz y del botón en placa.
 

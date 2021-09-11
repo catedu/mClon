@@ -1,6 +1,6 @@
-# SENSORES
+# 1.3 SENSORES
 
-# Sensor sigue líneas infrarojos
+# 1.3.1 Sensor sigue líneas infrarojos
 
 Utilizamos el tracker sensor TCRT5000
 
@@ -14,7 +14,7 @@ En https://tecnoloxia.org/mclon/robotica/os-sensores-ir-de-lina/ explica muy bie
 
 _Fuente: https://tecnoloxia.org/mclon/ Maria L      CC-BY-SA_
 
-# Sensor evita obstáculos ultrasonidos
+# 1.3.2 Sensor evita obstáculos ultrasonidos
 
 Se utiliza el sensor HC-SR04
 
@@ -24,7 +24,7 @@ En https://tecnoloxia.org/mclon/robotica/o-sensor-ultrasonico/ explica muy bien 
 
 ![](/assets/ultrasonico_grafico.png)
 
-# Sensor de luz
+# 1.3.3 Sensor de luz
 
 Es un LDR que conectado en serie con una resistencia nos proporciona un valor de tensión, pues el LDR varía su resistencia con la luz (a más luz, menos resistencia)
 
