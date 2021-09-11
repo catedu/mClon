@@ -2,11 +2,11 @@
 
 * [Introducción](README.md)
 
-## Capítulo 1
+## Propuesta CATEDU
 
-* [Opciones](capitulo-uno/opciones.md)
-* [Accesorios](capitulo-uno/accesorios.md)
-* [Partes impresas](capitulo-uno/partesimpresas.md)
+* [Opciones](propuesta/opciones.md)
+* [Accesorios](propuesta/extras.md)
+* [Partes impresas](propuesta/partesimpresas.md)
 
 ## Capítulo 2
 
