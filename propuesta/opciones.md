@@ -7,7 +7,7 @@ Elegimos la opción impresa por ser la más adaptable para el docente, en el cap
 
 ![](/assets/chasis2-300x219.png)
 
-_Fuente: https://tecnoloxia.org/mclon CC-BY-SA_
+_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
 ## 2 Tarjeta electrónica
 

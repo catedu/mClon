@@ -8,4 +8,4 @@ Es un proyecto de hardware y software gratuito . Puede ser montado por quien lo 
 
 ![](/assets/mClon_cabezallo7.jpg)
 
-_Fuente: https://tecnoloxia.org/mclon CC-BY-SA_
+_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
