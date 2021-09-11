@@ -1,8 +1,12 @@
-# Motores
+# 1.- Motores
+
+Los motores son de corriente contínua sin control de su posición, es deicr, sólo podemos controlar su sentido de giro y su potencia.
+
+![](/assets/motor.jpg)
 
 El control de los motores implicará poner en el escudo Protoboard dos circuitos integrados y su cableado correspondiente, vamos a verlo:
 
-## Driver motor B6612FNG
+## 1.1.- Driver motor B6612FNG
 
 Para realizar el control de los motores, tanto su potencia como su sentido de giro se va a utilizar el controlador **TB6612FNG**
 
@@ -12,7 +16,7 @@ _Fuente: https://tecnoloxia.org/mclon/ Maria L      CC-BY-SA_
 
 La potencia de los motores se controla por los pines PWMA y PWMB indicando un valor entre 0 y 255.
 
-## Los giros, una complicación más: 7404
+## 1.2.- Los giros, una complicación más: 7404
 
 Los giros se controlan con los pines AIN, por ejemplo para el motor A :
 
@@ -27,10 +31,20 @@ Pero esto implica tener que utilizar un **circuito impreso más**, el 7404 que t
 
 ![](/assets/7404-2.png)
 
-### Otra opción para los giros
+### 1.2.1.- Otra opción para los giros
 
 Tal y como dice la página https://tecnoloxia.org/mclon/robotica/o-control-dos-motores/ también se puede utilizar dos transistores y resistencias, (de echo, mBot lo hace así) pero no lo utilizaremos, pues pensamos que es más cómodo el 7404.
 
-![](/assets/mClon_cabezallo11.jpg)
+# 2.-Servomotores
+
+Son motores que sí tenemos control del giro, es decir, que podemos ordenar que gire un ángulo determinado.
+
+Utilizaremos en mBlock la instrucción
+
+![](/assets/instruccionservo.jpg)
+
+Utilizaremos el servo colocado a un lado para insertar el brazo robótico:
+
+![](/assets/servoBrazo5-300x225.jpg)
 
 _Fuente: https://tecnoloxia.org/mclon/ Maria L      CC-BY-SA_

@@ -12,6 +12,7 @@
 
 * [La placa electrónica](como/placa.md)
 * [Motores](como/motores.md)
+* [Sensores](como/sensores.md)
 
 ---
 
