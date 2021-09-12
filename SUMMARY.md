@@ -18,7 +18,7 @@
 
 ## 3 Montaje
 
-* []
+* [3.1 Pasos previos](montaje/previo.md)
 
 
 ---
