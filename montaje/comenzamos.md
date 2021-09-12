@@ -21,9 +21,9 @@ _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
 ## 3.2.2 Sensor ultrasonidos
 
-El sensor lutrasónico en el soporte, encaja para uqe no se caiga y pon el soporte con dos tornillos en el chasis:
+El sensor ultrasónico en el soporte, encaja justo para que no se caiga. Pon el soporte con dos tornillos en el chasis:
 
-![](/assets/C:\Users\ASUSI5\Documents\GitHub\mClon\assets\2021-09-12 10_17_22-Montaje _ mClon.jpg)
+![](/assets/soporteUS.jpg)
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 

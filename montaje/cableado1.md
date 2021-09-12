@@ -45,7 +45,7 @@ Y tinen que ser estas conexiones y no otras para que sea compatible con mBlock y
 
 ![](/assets/Esquema_RobotDyn-1_corrixido.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
 ## 3.3.3 Esquema accesorios
 
