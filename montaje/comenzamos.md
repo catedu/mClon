@@ -37,6 +37,24 @@ _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
 Pon las juntas tóricas en las ruedas y pasamos a su colocación: Las ruedas encajan muy justas, esto es así para evitar que con los golpes se desileneen. Hay que presionar con los dedos, si ves que cuesta puedes pasar una lima por el orificio para rebajarlo un poco. Fíjalo con los tornillos.
 
-![](/assets/C:\Users\ASUSI5\Documents\GitHub\mClon\assets\2021-09-12 10_21_44-Montaje _ mClon.jpg)
+![](/assets/montarruedas.jpg)
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+
+### 3.2.4 placa y accesorios
+
+# Pon los soportes de los sensores RGB
+
+Fija la placa al chasis
+
+![](/assets/placa-768x508.jpg)
+
+_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+
+Fija el soporte del zumbador a un lado:
+
+![](/assets/zumbador-298x300.jpg)
+
+_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+
+# Pon el soporte del sensor brazo
