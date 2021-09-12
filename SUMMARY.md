@@ -20,6 +20,9 @@
 
 * [3.1 Pasos previos](montaje/previo.md)
 * [3.2 Comenzamos](/montaje/comenzamos.md)
+* [3.3 Cableado esquema](/montaje/cableado1.md)
+* [3.4 Cableado protoboard](/montaje/cableado2.md)
+
 
 
 ---
