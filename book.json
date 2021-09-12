@@ -12,8 +12,10 @@
   "variables": {
     "title": "mClon",
     "authors": [
-      "Adapdato de https://tecnoloxia.org/mclon",
-      "________________"
+      "https://tecnoloxia.org/mclon",
+      "María Loureiro",
+      "Bernardo Álvarez",
+      "Miguel Gesteiro"
     ],
     "collaborators": [
       {

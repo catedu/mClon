@@ -14,7 +14,11 @@
 * [2.1 Opciones](propuesta/opciones.md)
 * [2.2 Accesorios](propuesta/extras.md)
 * [2.3 Partes impresas](propuesta/partesimpresas.md)
+* [2.4 Lista de material](propuesta/listamaterial.md)
 
+## 3 Montaje
+
+* []
 
 
 ---
