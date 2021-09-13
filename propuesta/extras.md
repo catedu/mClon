@@ -22,7 +22,11 @@ La propuesta de Catedu es añadir este extra que le da al mClon unas posibilidad
 
 {% youtube %}https://www.youtube.com/watch?v=O53jw98uCAo{% endyoutube %}
 
+<hr />
+
 # Otras propuestas no contempladas en el paquete de CATEDU
+
+<hr />
 
 ## Matriz LED
 
@@ -48,7 +52,7 @@ Por esta razón **NO** está en la propuesta de Catedu.
 
 Se trata de una pantalla de cuatro dígitos que puede usarse como cronómetro, contador de eventos, etc..
 
-![](assets/mClon_cabezallo14.jpg)
+![](/assets/mClon_cabezallo14.jpg)
 
  _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
