@@ -22,8 +22,10 @@
 * [3.2 Comenzamos](/montaje/comenzamos.md)
 * [3.3 Cableado esquema](/montaje/cableado1.md)
 * [3.4 Cableado motores](/montaje/cableado2.md)
-* [3.5 Cableado sensores](/montaje/cableado2.md)
-* [3.6 Cableado accesorios](/montaje/cableado2.md)
+* [3.5 Cableado sensores](/montaje/cableado3.md)
+* [3.6 Cableado accesorios 1](/montaje/cableado4.md)
+* [3.7 Cableado accesorios 2](/montaje/cableado5.md)
+
 
 
 
