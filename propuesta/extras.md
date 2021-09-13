@@ -69,6 +69,3 @@ Esta opción esta documentado también en la Web https://tecnoloxia.org/mclon/ac
 Consiste en cambiar la posición de un siguelíneas para detectar las paredes de enfrente y el sensor ultrasonidos para seguir la pared derecha, en https://tecnoloxia.org/mclon/accesorios/resolve-labirintos/ explica muy bien esta opción y las piezas 3d extras para hacerlo:
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Xa resolvo laberintos! Pero, que sexan sinxelos.<br>Agora documentar e que a xente me replique <a href="https://t.co/QrWEvWiHqs">pic.twitter.com/QrWEvWiHqs</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1063408748759257088?ref_src=twsrc%5Etfw">November 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=mClon&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #mClon</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
