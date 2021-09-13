@@ -1,7 +1,7 @@
 
 # 3.2 Comenzamos
 
-Este robot es complejo, ánimo
+El montaje de este robot es complejo, ánimo !
 
 ![](https://catedu.github.io/rover-marciano-alphabot/assets/gallina.gif)
 
@@ -13,7 +13,7 @@ Ponemos la bola loca y los seguidores en el soporte con los leds hacia abajo:
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
-Atornillalo y conecta los cables pasándolos por el orificio:
+Atornilla el sorpote al chasis y conecta los cables pasándolos por el orificio:
 
 ![](/assets/sensores_bola2-768x449.jpg)![](/assets/Sensor_cables.jpg)
 
@@ -43,7 +43,13 @@ _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
 ### 3.2.4 placa y accesorios
 
-# Pon los soportes de los sensores RGB
+Pon los soportes de los leds RGB
+
+![](/assets/soporteRGB.jpg)
+
+Pon el soporte del servo al lado izquierdo (mirándolo a los ojos el ultrasonido)
+
+![](/assets/soporteServo.jpg)
 
 Fija la placa al chasis
 
@@ -51,10 +57,8 @@ Fija la placa al chasis
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
-Fija el soporte del zumbador a un lado:
+Fija el soporte del zumbador al lado derecho  (mirándolo a los ojos el ultrasonido):
 
 ![](/assets/zumbador-298x300.jpg)
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
-
-# Pon el soporte del sensor brazo

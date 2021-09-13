@@ -40,7 +40,7 @@ Y ahora conectamos los pines de velocidad y dirección:
 
 _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
-Es decir, estos cables
+Es decir, estos cables que indican en la siguiente figura :
 
 >**info** ATENCIÓN, no se han dibujado las conexiones anteriores, para simplificar los dibujos, es decir ,**no** quites los cables anteriores
 
@@ -56,7 +56,7 @@ Y luego el motor B
 
 _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
-Ahora conectamos los motors **OJO CON LA POLARIDAD** si te equivocas, el motor girará al revés :
+Ahora conectamos los motores **OJO CON LA POLARIDAD** si te equivocas, el motor girará al revés :
 
 ![](/assets/conexionmotor.jpg)
 

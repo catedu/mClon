@@ -6,6 +6,8 @@ Tal y como dice https://tecnoloxia.org/mclon/que-e-mclon/
 
 Es un proyecto de hardware y software gratuito . Puede ser montado por quien lo desee, adaptándolo a sus propios fines, necesidades o deseos."
 
+>**danger** Este tutorial NO explica el funcionamiento del Arduino y su programación, sino el montaje de mClon
+
 ![](/assets/mClon_cabezallo7.jpg)
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_

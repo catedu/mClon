@@ -9,7 +9,7 @@
 * [1.3 Sensores](como/sensores.md)
 * [1.4 Accesorios](como/accesorios.md)
 
-## 2 Propuesta de montaje
+## 2 Propuesta de Catedu
 
 * [2.1 Opciones](propuesta/opciones.md)
 * [2.2 Accesorios](propuesta/extras.md)
@@ -22,6 +22,8 @@
 * [3.2 Comenzamos](/montaje/comenzamos.md)
 * [3.3 Cableado esquema](/montaje/cableado1.md)
 * [3.4 Cableado motores](/montaje/cableado2.md)
+* [3.5 Cableado sensores](/montaje/cableado2.md)
+* [3.6 Cableado accesorios](/montaje/cableado2.md)
 
 
 
