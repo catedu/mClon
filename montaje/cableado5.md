@@ -1,4 +1,4 @@
-# 3.7 Cableado accesorios 2ª parte
+# 3.7 Cableado extras
 
 ## 3.7.1 Leds RGB
 

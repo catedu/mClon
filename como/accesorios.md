@@ -1,22 +1,23 @@
-# 1.4 ACCESORIOS LED RGB Y BRAZO
+# 1.4 Accesorios
 
-# 1.4.1 LED RGB
+# 1.4.1 Botón en placa
 
-Imitando a mBot, el mClon tiene unos leds RGB que pueden tener diferentes colores.
+Este botón es muy útil para dar comienzo a los programas, por ejemplo en el siguiente programa hasta que o aprieto el botón el robot no comienza a dar vueltas :
 
-![](/assets/ledrgb.jpg)
+![](/assets/mBlock7.png)
 
-La instrucción en mBlock permite la combinación de los colores primarios para conseguir la tonalidad que se quiera.
+ _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
-![](/assets/instruccionrgb.jpg)
+ En mClon utilizaremos el botón del escudo Protoboard, pero hay que soldar un cable que lo veremos en **3.1 Pasos previos** para montar el siguiente esquema:
 
+ ![](/assets/conexionpulsador.jpg)
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Xa teño LEDs RGB!! Na páxina <a href="https://t.co/2cUJy6ivcY">https://t.co/2cUJy6ivcY</a> podes ver como conectalos e nesta outra <a href="https://t.co/Cql4kUmRbt">https://t.co/Cql4kUmRbt</a> explicamos como funcionan e propoñemos algunhas prácticas <a href="https://t.co/vJPyjZ7J6S">pic.twitter.com/vJPyjZ7J6S</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1058711684053897216?ref_src=twsrc%5Etfw">November 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
-# 1.4.2 Brazo robótico
+ ## 1.4.2 zumbador
 
-Tal y como se comentó en [motores](https://catedu.github.io/mClon/como/motores.html) utilizaremos en mBlock la instrucción :
+Sólo se necesista un zumbador **pasivo**, es decir, es un simple altavoz, la instrucción de mBlock ya se encarga de reproducir el tono .
 
-![](/assets/instruccionservo.jpg)
+![](/assets/tono.png)
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Probando servo. Non hai obstáculo que se me resista! <a href="https://t.co/ZiD7XNDZ3l">pic.twitter.com/ZiD7XNDZ3l</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1059824892915433475?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+La ventaja de ser pasivo es que podemos reproducir diferentes tonos, para saber más ver [esta página de Luis Llamas](https://www.luisllamas.es/reproducir-sonidos-arduino-buzzer-pasivo-altavoz/) . Un zumbador activo reproduce un tono fijado al suministrarle tensión, para saber más [esta página de Luis Llamas](https://www.luisllamas.es/arduino-buzzer-activo/).

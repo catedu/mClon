@@ -1,6 +1,6 @@
-# 2.2 EXTRAS
+# 2.2 SENSORES, ACCESORIOS Y EXTRAS
 
-## 2.2.1.- Accesorios que vienen con el kit básico de mBot
+## 2.2.1.- Accesorios, sensores y extras que vienen con el kit básico de mBot
 
 Hay ciertos extras que vamos a añadir a nuestro mClon para ser compatible con el mBot comercial :
 
@@ -14,7 +14,7 @@ Hay ciertos extras que vamos a añadir a nuestro mClon para ser compatible con e
 
 _Fuente Makeblock_
 
-## 2.2.2- Extras que no vienen con el kit básico mBot
+## 2.2.2- Sensores, accesorios y extras que no vienen con el kit básico mBot
 
 ### 2.2.2.1.- BRAZO
 

@@ -1,4 +1,4 @@
-# 3.6 Cableado accesorios 1º parte
+# 3.6 Cableado accesorios
 
 ## 3.6.1 Pulsador
 
