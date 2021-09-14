@@ -14,7 +14,9 @@ Para superar el curso, tienes que entregar un vídeo donde se demuestre que func
   * Leds RGB
   * Brazo
 
-Puedes hacer tú mismo un programa, una propuesta que englobe los 8 elementos expuestos, o si quieres, te proponemos esta propuesta que te la puedes descargar aquí [TEST-BUENO.sb2](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
+## 4.5.1 Propuesta TEST-CATEDU
+
+Puedes hacer tú mismo un programa, una propuesta que englobe los 8 elementos expuestos, o si quieres, te proponemos esta propuesta que te la puedes descargar aquí [TEST-CATEDU.sb2](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
 
 Tiene varios bloques definidos, este bloque **SIGUE LINEA** cumple la función de seguir la línea negra, pero si detecta un 3, llama al bloque **Buscalinea** pues está fuera del circuito:
 
@@ -54,3 +56,19 @@ Donde tenemos que definir:
 Para la variable **luz** recomendamos usar el programa visto en [4.3 Testeo sensores](https://catedu.github.io/mClon/testeo/mBlock3.html)
 
 ![](/assets/mblock17.png)
+
+## 4.5.2 Otros testeos
+
+En la página https://tecnoloxia.org/mclon/ puedes encontrar interesantes propuestas en el apartado mBlock :
+
+* Movimiento https://tecnoloxia.org/mclon/o-robot-en-movemento/
+* Cerramiento en línea https://tecnoloxia.org/mclon/recinto-con-lina-2/
+* Sigue líneas https://tecnoloxia.org/mclon/unha-lina-no-chan/
+* Detectar objetos https://tecnoloxia.org/mclon/detectar-obxectos/
+* Luces RGB https://tecnoloxia.org/mclon/extras/luces-de-cores/
+* Brazo robótico https://tecnoloxia.org/mclon/extras/brazo/
+* Siguiendo una luz https://tecnoloxia.org/mclon/extras/seguindo-a-luz/
+
+Y muchas más...
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">O segue luz non e moi espectacular, pero ten dous ....<br>LDR <a href="https://t.co/wNyDp1O5Hp">pic.twitter.com/wNyDp1O5Hp</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1061278328936693760?ref_src=twsrc%5Etfw">November 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

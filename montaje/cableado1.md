@@ -10,7 +10,7 @@ Tenemos que conseguir unir los diferentes elementos con los pines del Robodyn:
 * Los pines analógicos A0,A1,A2,A3,A4,A5,A6,A7
 * Los pines de alimentación GND, VIN
 
-Y tinen que ser estas conexiones y no otras para que sea compatible con mBlock y mBot :
+Y tinen que ser estas conexiones y no otras para que sea compatible con mBlock y mBot [planos de mBot](https://tecnoloxia.org/mclon/mbot/) :
 
 ## 3.3.1.- Tabla de conexiones
 

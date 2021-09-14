@@ -34,7 +34,8 @@
 * [4.2 Testeo con mBlock sensores](/testeo/mBlock3.md)
 * [4.3 Testeo con mBlock accesorios](/testeo/mBlock4.md)
 * [4.4 Testeo con mBlock extras](/testeo/mBlock5.md)
-* [4.5 Testeo completo](/testeo/mBlock6.md)
+* [4.5 Testeo completo con mBlock](/testeo/mBlock6.md)
+* [4.6 Test con IDE](/testeo/IDE.md)
 
 
 
