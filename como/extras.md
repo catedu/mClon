@@ -15,8 +15,16 @@ La instrucción en mBlock permite la combinación de los colores primarios para 
 
 # 1.5.2 Brazo robótico
 
-Tal y como se comentó en [motores](https://catedu.github.io/mClon/como/motores.html) utilizaremos en mBlock la instrucción :
+Los sevomotores son motores que sí tenemos control del giro, es decir, que podemos ordenar que gire un ángulo determinado.
+
+Utilizaremos en mBlock la instrucción (como se conectará al D11 de la placa, es el Slot1, si lo conectaramos al D12 sería el Slot2)
 
 ![](/assets/instruccionservo.jpg)
+
+Utilizaremos el servo colocado a un lado para insertar el brazo robótico:
+
+![](/assets/servoBrazo5-300x225.jpg)
+
+_Fuente: https://tecnoloxia.org/mclon/ Maria L      CC-BY-SA_
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Probando servo. Non hai obstáculo que se me resista! <a href="https://t.co/ZiD7XNDZ3l">pic.twitter.com/ZiD7XNDZ3l</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1059824892915433475?ref_src=twsrc%5Etfw">November 6, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -34,17 +34,3 @@ Pero esto implica tener que utilizar un **circuito impreso más**, el 7404 que t
 ### 1.2.3.- Otra opción para los giros
 
 Tal y como dice la página https://tecnoloxia.org/mclon/robotica/o-control-dos-motores/ también se puede utilizar dos transistores y resistencias, (de echo, mBot lo hace así) pero no lo utilizaremos, pues pensamos que es más cómodo el 7404.
-
-# 1.2.4-Servomotores
-
-Son motores que sí tenemos control del giro, es decir, que podemos ordenar que gire un ángulo determinado.
-
-Utilizaremos en mBlock la instrucción (como se conectará al D11 de la placa, es el Slot1, si lo conectaramos al D12 sería el Slot2)
-
-![](/assets/instruccionservo.jpg)
-
-Utilizaremos el servo colocado a un lado para insertar el brazo robótico:
-
-![](/assets/servoBrazo5-300x225.jpg)
-
-_Fuente: https://tecnoloxia.org/mclon/ Maria L      CC-BY-SA_

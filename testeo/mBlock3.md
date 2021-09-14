@@ -1,4 +1,4 @@
-# 4.3 Testeo semspres
+# 4.3 Testeo sensores
 
 ## 4.3.1 Test del sensor ultrasonidos
 
