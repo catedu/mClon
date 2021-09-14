@@ -7,7 +7,9 @@ No hay que olvidad que mBot y mClon son en el fondo Arduinos, aunque sus placas 
 
 Este programa se puede descargar en https://www.arduino.cc/en/software
 
-No vamos a entrar, pues se escapa de las intenciones de este curso que es montar un mClon y probarlo, y esto ya se ha visto con bloquees, pero si quieres probarlo con código, te recomendamos visitar la página https://tecnoloxia.org/mclon
+No vamos a entrar, pues se escapa de las intenciones de este curso que es montar un mClon y probarlo, y esto ya se ha visto con programación por bloques con mBlock que es donde se obtiene todo el potencial de mClon al ser compatible con mBot.
+
+No obstante, si quieres programarlo con texto, te recomendamos visitar la página https://tecnoloxia.org/mclon :
 
 ## Propuestas con código :
 

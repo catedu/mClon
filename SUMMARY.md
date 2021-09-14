@@ -37,9 +37,9 @@
 * [4.5 Testeo completo con mBlock](/testeo/mBlock6.md)
 * [4.6 Test con IDE](/testeo/IDE.md)
 
-
-
-
+## =====
 ---
 
+* [Muro](muro.md)
+* [Grupo robotica](grupo.md)
 * [Créditos](creditos.md)

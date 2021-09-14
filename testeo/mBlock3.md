@@ -40,4 +40,8 @@ Recomendamos usar este programa en el modo **dependiendo del ordenador**
 
 ![](/assets/mblock17.png)
 
+El muñeco panda nos irá diciendo la cantidad de luz
+
 Este programa nos servirá para definir la variable **luz** en [4.5 Testo completo](https://catedu.github.io/mClon/testeo/mBlock6.html)
+
+Otra propuesta interesante del [Scrath Day Nerja](https://scratchdaynerja.wordpress.com/2017/04/26/y-se-apago-la-luz/)
