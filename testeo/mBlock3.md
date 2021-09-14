@@ -33,3 +33,11 @@ Luego hacemos el siguiente test con mBlock **dependiendo del ordenador** y el os
 _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
 
 Si funciona al revés es que se han intercambiado los pines D9 y D10
+
+## 4.3.3 Test sensor luz
+
+Recomendamos usar este programa en el modo **dependiendo del ordenador**
+
+![](/assets/mblock17.png)
+
+Este programa nos servirá para definir la variable **luz** en [4.5 Testo completo](https://catedu.github.io/mClon/testeo/mBlock6.html)
