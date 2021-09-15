@@ -20,7 +20,9 @@ Puedes hacer tú mismo un programa, una propuesta **que englobe los 8 elementos 
 
 La plantilla del circuito la podeis descargar [aquí imprimiento 4 hojas del fichero Word](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing) pero puede ser otra cualquiera.
 
-{% youtube %}https://youtu.be/_EmaTqb-F4Y{% endyoutube %}
+En el vídeo, no se ve bien que se apagan las luces, pues automáticamente el vídeo del móvil ajusta el brillo, pero realmente esta un poco a oscuras
+
+{% youtube %}https://youtu.be/elVtHJZgCO0{% endyoutube %}
 
 Tiene varios bloques definidos, este bloque **SIGUE LINEA** cumple la función de seguir la línea negra, pero si detecta un 3, llama al bloque **Buscalinea** pues está fuera del circuito:
 
