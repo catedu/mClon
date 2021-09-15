@@ -18,6 +18,8 @@ Para superar el curso, tienes que entregar un vídeo donde se demuestre que func
 
 Puedes hacer tú mismo un programa, una propuesta **que englobe los 8 elementos expuestos**, o si quieres, te proponemos esta propuesta que te la puedes descargar aquí [TEST-CATEDU.sb2](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
 
+La plantilla del circuito la podeis descargar [aquí imprimiento 4 hojas del fichero Word](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing) pero puede ser otra cualquiera.
+
 {% youtube %}https://youtu.be/_EmaTqb-F4Y{% endyoutube %}
 
 Tiene varios bloques definidos, este bloque **SIGUE LINEA** cumple la función de seguir la línea negra, pero si detecta un 3, llama al bloque **Buscalinea** pues está fuera del circuito:
