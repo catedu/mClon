@@ -1,6 +1,6 @@
 # 2.1 Opciones
 
-Hay diversas opiciones de montar un mClon, todas explicadas en https://tecnoloxia.org/mclon/opcions/ la propuesta de CATEDU es la siguiente:
+Hay diversas opciones para montar un mClon, todas explicadas en https://tecnoloxia.org/mclon/opcions/ la propuesta de CATEDU es la siguiente:
 
 ## 2.1.1 Chasis
 Elegimos la opción impresa por ser la más adaptable para el docente, en el capítulo de partes impresas lo describimos con detalle.
@@ -11,7 +11,7 @@ _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
 
 ## 2.1.2 Tarjeta electrónica
 
-Estabamos tentados de usar el ARDUINO ONE pues es la que se encuentra más extendida y la más barata **pero tiene una desventaja: no tiene los pines A6 y A7** esto imposibilida las instrucciones:
+Estábamos tentados de usar el ARDUINO ONE pues es la que se encuentra más extendida y la más barata **pero tiene una desventaja: no tiene los pines A6 y A7** esto imposibilita las instrucciones:
 
 * sensor luz a bordo
 * botón
