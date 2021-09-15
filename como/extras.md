@@ -15,7 +15,7 @@ La instrucción en mBlock permite la combinación de los colores primarios para 
 
 # 1.5.2 Brazo robótico
 
-Los sevomotores son motores que sí tenemos control del giro, es decir, que podemos ordenar que gire un ángulo determinado.
+Los servomotores son motores que sí tenemos control del giro, es decir, que podemos ordenar que gire un ángulo determinado.
 
 Utilizaremos en mBlock la instrucción (como se conectará al D11 de la placa, es el Slot1, si lo conectaramos al D12 sería el Slot2)
 
