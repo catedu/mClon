@@ -16,7 +16,9 @@ Para superar el curso, tienes que entregar un vídeo donde se demuestre que func
 
 ## 4.5.1 Propuesta TEST-CATEDU
 
-Puedes hacer tú mismo un programa, una propuesta que englobe los 8 elementos expuestos, o si quieres, te proponemos esta propuesta que te la puedes descargar aquí [TEST-CATEDU.sb2](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
+Puedes hacer tú mismo un programa, una propuesta **que englobe los 8 elementos expuestos**, o si quieres, te proponemos esta propuesta que te la puedes descargar aquí [TEST-CATEDU.sb2](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
+
+{% youtube %}https://youtu.be/_EmaTqb-F4Y{% endyoutube %}
 
 Tiene varios bloques definidos, este bloque **SIGUE LINEA** cumple la función de seguir la línea negra, pero si detecta un 3, llama al bloque **Buscalinea** pues está fuera del circuito:
 
@@ -30,13 +32,9 @@ La función **VERLATA** mira si hay una lata delante, y en ese caso la retira :
 
 ![](/assets/mblock3.png)
 
-Para probar el sensor de luces, hemos pensado en esta idea :
+Para probar el sensor de luces, hemos pensado [en esta idea](https://www.youtube.com/watch?v=p9543Fjx4sM) :
 
-{% youtube %} https://www.youtube.com/watch?v=p9543Fjx4sM{% endyoutube %}
-
-Bueno, no tan avanzado, pero una aproximación:
-
-La función **Para-si-oscuridad** hace un baile en el caso de que se apagen las luces:
+La función **Para-si-oscuridad** se detiene en el caso de que se apaguen las luces y reproduce un juego de luces con RGB y sonidos con el Buzzer:
 
 ![](/assets/mblock11.png)
 
