@@ -1,8 +1,8 @@
-# 2.2 SENSORES, ACCESORIOS Y EXTRAS
+# 2.2 SENSORES, ACCESORIOS Y EXTRAS de mClon versus mBot
 
-## 2.2.1.- Accesorios, sensores y extras que vienen con el kit básico de mBot
+## 2.2.1.- Que vienen con el kit básico de mBot
 
-Hay ciertos extras que vamos a añadir a nuestro mClon para ser compatible con el mBot comercial :
+Hay ciertos acceorios y extras que vamos a añadir a nuestro mClon para ser compatible con el mBot comercial :
 
 * **Sensor ultrasónico** evita obstáculos
 * **LED RGB** dos a cada lado del sensor ultrasónico
@@ -14,11 +14,15 @@ Hay ciertos extras que vamos a añadir a nuestro mClon para ser compatible con e
 
 _Fuente Makeblock_
 
-## 2.2.2- Sensores, accesorios y extras que no vienen con el kit básico mBot
+## 2.2.2- Que no vienen con el kit básico mBot
 
 ### 2.2.2.1.- BRAZO
 
-La propuesta de Catedu es añadir este extra que le da al mClon unas posibilidades muy creativas :
+Con mBlock existe la posibilidad de añadir un servo
+
+![](/assets/brazombot.jpg)
+
+La propuesta de Catedu es también añadir este extra que le da al mClon unas posibilidades muy creativas :
 
 {% youtube %}https://www.youtube.com/watch?v=O53jw98uCAo{% endyoutube %}
 

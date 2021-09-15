@@ -62,3 +62,23 @@ Fija el soporte del zumbador al lado derecho  (mirándolo a los ojos el ultrason
 ![](/assets/zumbador-298x300.jpg)
 
 _Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+
+## 3.2.5 Powerbank
+
+El Powerbank se sujeta muy bien, pues en un extremo tiene el cable USB, en el otro extremo tiene la bola loca :
+
+![](/assets/powerbank1.jpg)
+
+Y podemos poner un velcro para asegurarnos que no se mueva :
+
+![](/assets/powerbank2.jpg)
+
+Esto permite sacarlo si fuese necesario, pero para tanto para la carga, conexión y desconexión del mClon no hace falta sacarlo nunca.
+
+* Carga: Conectar el cable USB en el orificio microusb
+
+![](/assets/powerbank3.jpg)
+
+* Conexión y desconexión del mClon por el puerto USB grande
+
+![](/assets/powerbank4.jpg)

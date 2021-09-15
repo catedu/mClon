@@ -13,7 +13,7 @@
 ## 2 Propuesta de Catedu
 
 * [2.1 Opciones](propuesta/opciones.md)
-* [2.2 Sensores, accesorios y extras](propuesta/extras.md)
+* [2.2 Propuesta mClon vs mBot](propuesta/extras.md)
 * [2.3 Partes impresas](propuesta/partesimpresas.md)
 * [2.4 Lista de material](propuesta/listamaterial.md)
 
