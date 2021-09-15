@@ -2,7 +2,7 @@
 
 Para **mClon** hay un grupo de Telegram :
 
-[mClonRobot]](http://t.me/mClonRobot)
+[mClonRobot](http://t.me/mClonRobot)
 
 ![](/assets/telegram.jpg)
 
