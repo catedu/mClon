@@ -4,8 +4,8 @@ El robot mClon como mBot son sistemas basados en Arduino. La placa controladora 
 
 ![](/assets/robodyn.jpg)
 
-_Fuente: Adaptado de https://tecnoloxia.org/mclon/ Maria L CC-BY-SA_
+_Fuente: Adaptado de https://mclon.org/ Maria L CC-BY-SA_
 
 ![](/assets/mClon_cabezallo21.jpg)
 
-_Fuente: https://tecnoloxia.org/mclon/ Maria L      CC-BY-SA_
+_Fuente: https://mclon.org/ Maria L      CC-BY-SA_

@@ -11,11 +11,11 @@ Se conlocan en el soporte de la cabeza loca, van justos, incluso puede ser no ne
 
 ![](/assets/Sensores_lina-1_corrixido.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 ![](/assets/Sensores_lina_frit_corrixido.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 ## 3.5.2 Sensor ultrasonidos
 
@@ -23,7 +23,7 @@ Los pines Trig y Echo del sensor **tienen que estar soldados** por lo que se con
 
 ![](/assets/ultrason_frit.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 ## 3.5.3 Sensor de luz LDR.
 
@@ -31,7 +31,7 @@ Para el sensor de luz, tenemos que hacer el siguiente esquema :
 
 ![](/assets/ldr-esquema.jpg)
 
-_Fuente: Adaptado de https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: Adaptado de https://mclon.org Maria L CC-BY-SA_
 
 Luego tenemos que hacer los siguientes empalmes, conectados o mejor soldados y aislarlos con una cinta aislante:
 
@@ -41,18 +41,18 @@ Luego tenemos que hacer los siguientes empalmes, conectados o mejor soldados y a
 
 ![](/assets/conexionLDR.jpg)
 
-_Fuente: Adaptado de https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: Adaptado de https://mclon.org Maria L CC-BY-SA_
 
 Nuestra propuesta de fijación al chasis es poner la resistencia en la parte debajo del chasis, pasar los cables hacia el escudo Protoboard por los numerosos agujeros que hay en el chasis, y pasar el LDR por el agujero de los cables del sensor siguelíneas :
 
 ![](/assets/conexionchasisLDR.jpg)
 
->**info** Hay otras posibilidades de conexión, y fijación al chasis, incluso existe la posibilidad de poner dos LDRs uno al A3 y otro al A1, en total se pueden poner hasta 3 LDRs, para más info ver https://tecnoloxia.org/mclon/accesorios/sensor-de-luz/
+>**info** Hay otras posibilidades de conexión, y fijación al chasis, incluso existe la posibilidad de poner dos LDRs uno al A3 y otro al A1, en total se pueden poner hasta 3 LDRs, para más info ver https://mclon.org/accesorios/sensor-de-luz/
 
 ![](/assets/pinsLDR.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 ![](/assets/CaraArriba-768x298.jpg)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_

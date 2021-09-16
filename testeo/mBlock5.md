@@ -10,13 +10,13 @@ Una vez realizado, podemos experimentar este programa **independiente del ordena
 
 ![](/assets/servo_rapido.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 Com o podrás observar va muy deprisa, una solución es poner en ángulo una variable que va aumentando:
 
 ![](/assets/servo_lento.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 ## 4.5.2 Test de los leds RGB
 
@@ -24,4 +24,4 @@ Pon mClon **dependiendo del ordenador** y ejecuta dos clicks en esta instrucció
 
 ![](/assets/mBlock14.png)
 
-Experimenta con diferentes valores, en https://tecnoloxia.org/mclon/extras/luces-de-cores/ tienes una explicación de todos los valores a utilizar y los colores que se obtienen.
+Experimenta con diferentes valores, en https://mclon.org/extras/luces-de-cores/ tienes una explicación de todos los valores a utilizar y los colores que se obtienen.

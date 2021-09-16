@@ -48,7 +48,7 @@ Pero no es compatible con la instrucciónes de mBlock para la matriz:
 
 ![](/assets/instrucciones2.jpg)
 
-En vez de estas, hay que instalar una librería MatrixLed y utilizar las instrucciones conrrespondientes. **Sólo compatible con la versión mBlock 3 ya en desuso**. Se explica este proceso en https://tecnoloxia.org/mclon/64leds/
+En vez de estas, hay que instalar una librería MatrixLed y utilizar las instrucciones conrrespondientes. **Sólo compatible con la versión mBlock 3 ya en desuso**. Se explica este proceso en https://mclon.org/64leds/
 
 Por esta razón **NO** está en la propuesta de Catedu.
 
@@ -58,18 +58,18 @@ Se trata de una pantalla de cuatro dígitos que puede usarse como cronómetro, c
 
 ![](/assets/mClon_cabezallo14.jpg)
 
- _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+ _Fuente: https://mclon.org Maria L CC-BY-SA_
 
-Para ver cómo se conectaría hay que consultar https://tecnoloxia.org/mclon/accesorios/aleron-cronometro/
+Para ver cómo se conectaría hay que consultar https://mclon.org/accesorios/aleron-cronometro/
 
 ## Fuera de camino
 
-Esta opción esta documentado también en la Web https://tecnoloxia.org/mclon/accesorios/todoterreo/
+Esta opción esta documentado también en la Web https://mclon.org/accesorios/todoterreo/
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Xa falta pouco para que o modelo todoterreo estea documentado na web. Mentres tanto podedes ver como funciona cos dous modelos de oruga, flexible e PLA. <a href="https://t.co/svclPqMJYo">pic.twitter.com/svclPqMJYo</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1252503943797780480?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Resuelve laberintos
 
-Consiste en cambiar la posición de un siguelíneas para detectar las paredes de enfrente y el sensor ultrasonidos para seguir la pared derecha, en https://tecnoloxia.org/mclon/accesorios/resolve-labirintos/ explica muy bien esta opción y las piezas 3d extras para hacerlo:
+Consiste en cambiar la posición de un siguelíneas para detectar las paredes de enfrente y el sensor ultrasonidos para seguir la pared derecha, en https://mclon.org/accesorios/resolve-labirintos/ explica muy bien esta opción y las piezas 3d extras para hacerlo:
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Xa resolvo laberintos! Pero, que sexan sinxelos.<br>Agora documentar e que a xente me replique <a href="https://t.co/QrWEvWiHqs">pic.twitter.com/QrWEvWiHqs</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1063408748759257088?ref_src=twsrc%5Etfw">November 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

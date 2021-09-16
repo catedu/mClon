@@ -1,8 +1,8 @@
 # 2.3 PARTES IMPRESAS
 
-En la web https://tecnoloxia.org/mclon/estrutura/impresion-3d/ tenemos la última versión de los modelos 3D para descargarlos y los consejos para su impresión.
+En la web https://mclon.org/estrutura/impresion-3d/ tenemos la última versión de los modelos 3D para descargarlos y los consejos para su impresión.
 
-Nosotros utilizaremos (para descargar la última versión de estos ficheros ir a https://tecnoloxia.org/mclon/estrutura/impresion-3d/):
+Nosotros utilizaremos (para descargar la última versión de estos ficheros ir a https://mclon.org/estrutura/impresion-3d/):
 
 * El **Chasis**: [Chasis_mClon_v2.stl](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)
 * El **soporte para ultrasonidos**, que utilizaremos el simétrico, pues hay HC-SR04 que tienen el condensador de cuarzo arriba y otros abajo: [ultrasonico_simetrico.stl](https://drive.google.com/drive/folders/1D8vIUNfCDCvM_04RG5HMXtUEGcaBmnTI?usp=sharing)

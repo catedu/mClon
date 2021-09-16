@@ -1,13 +1,13 @@
 # 2.1 Opciones
 
-Hay diversas opciones para montar un mClon, todas explicadas en https://tecnoloxia.org/mclon/opcions/ la propuesta de CATEDU es la siguiente:
+Hay diversas opciones para montar un mClon, todas explicadas en https://mclon.org/opcions/ la propuesta de CATEDU es la siguiente:
 
 ## 2.1.1 Chasis
 Elegimos la opción impresa por ser la más adaptable para el docente, en el capítulo de partes impresas lo describimos con detalle.
 
 ![](/assets/chasis2-300x219.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+_Fuente: https://mclon.org Maria L      CC-BY-SA_
 
 ## 2.1.2 Tarjeta electrónica
 
@@ -30,6 +30,6 @@ Aquí hemos optado por la opción más "Maker" es decir un simple protoboard, es
 
 ## 2.1.4 La alimentación
 
-De las tres opciones que ofrece https://tecnoloxia.org/mclon/opcions/ lo hemos tenido muy claro: El **powerbank** sencillo, económico, recargable y da mucha potencia.
+De las tres opciones que ofrece https://mclon.org/opcions/ lo hemos tenido muy claro: El **powerbank** sencillo, económico, recargable y da mucha potencia.
 
 ![](/assets/powerbank-300x273.png)

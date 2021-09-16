@@ -10,7 +10,7 @@ Tenemos que conseguir unir los diferentes elementos con los pines del Robodyn:
 * Los pines analógicos A0,A1,A2,A3,A4,A5,A6,A7
 * Los pines de alimentación GND, VIN
 
-Y tinen que ser estas conexiones y no otras para que sea compatible con mBlock y mBot [planos de mBot](https://tecnoloxia.org/mclon/mbot/) :
+Y tinen que ser estas conexiones y no otras para que sea compatible con mBlock y mBot [planos de mBot](https://mclon.org/mbot/) :
 
 ## 3.3.1.- Tabla de conexiones
 
@@ -45,7 +45,7 @@ Y tinen que ser estas conexiones y no otras para que sea compatible con mBlock y
 
 ![](/assets/Esquema_RobotDyn-1_corrixido.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+_Fuente: https://mclon.org Maria L CC-BY-SA_
 
 ## 3.3.3 Esquema accesorios
 
@@ -53,16 +53,16 @@ Los dos leds RGB
 
 ![](/assets/LEDsRGB_conexion.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+_Fuente: https://mclon.org Maria L      CC-BY-SA_
 
 El servo del brazo:
 
 ![](/assets/Servo_conexion-300x274.png)
 
-_Fuente: https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+_Fuente: https://mclon.org Maria L      CC-BY-SA_
 
 El LDR :
 
 ![](/assets/ldr-esquema.jpg)
 
-_Fuente: Adaptado de https://tecnoloxia.org/mclon Maria L      CC-BY-SA_
+_Fuente: Adaptado de https://mclon.org Maria L      CC-BY-SA_

@@ -6,13 +6,13 @@ Este botón es muy útil para dar comienzo a los programas, por ejemplo en el si
 
 ![](/assets/mBlock7.png)
 
- _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+ _Fuente: https://mclon.org Maria L CC-BY-SA_
 
  En mClon utilizaremos el botón del escudo Protoboard, pero hay que soldar un cable que lo veremos en **3.1 Pasos previos** para montar el siguiente esquema:
 
  ![](/assets/conexionpulsador.jpg)
 
- _Fuente: https://tecnoloxia.org/mclon Maria L CC-BY-SA_
+ _Fuente: https://mclon.org Maria L CC-BY-SA_
 
  ## 1.4.2 zumbador
 

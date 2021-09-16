@@ -61,15 +61,15 @@ Para la variable **luz** recomendamos usar el programa visto en [4.3 Testeo sens
 
 ## 4.5.2 Otros testeos
 
-En la página https://tecnoloxia.org/mclon/ puedes encontrar interesantes propuestas en el apartado mBlock :
+En la página https://mclon.org/ puedes encontrar interesantes propuestas en el apartado mBlock :
 
-* Movimiento https://tecnoloxia.org/mclon/o-robot-en-movemento/
-* Cerramiento en línea https://tecnoloxia.org/mclon/recinto-con-lina-2/
-* Sigue líneas https://tecnoloxia.org/mclon/unha-lina-no-chan/
-* Detectar objetos https://tecnoloxia.org/mclon/detectar-obxectos/
-* Luces RGB https://tecnoloxia.org/mclon/extras/luces-de-cores/
-* Brazo robótico https://tecnoloxia.org/mclon/extras/brazo/
-* Siguiendo una luz https://tecnoloxia.org/mclon/extras/seguindo-a-luz/
+* Movimiento https://mclon.org/o-robot-en-movemento/
+* Cerramiento en línea https://mclon.org/recinto-con-lina-2/
+* Sigue líneas https://mclon.org/unha-lina-no-chan/
+* Detectar objetos https://mclon.org/detectar-obxectos/
+* Luces RGB https://mclon.org/extras/luces-de-cores/
+* Brazo robótico https://mclon.org/extras/brazo/
+* Siguiendo una luz https://mclon.org/extras/seguindo-a-luz/
 
 Y muchas más...
 
