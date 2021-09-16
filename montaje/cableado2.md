@@ -12,7 +12,7 @@ Recuerda que la placa protoboard, los agujeros están conectados verticalmente a
 
 _Fuente: https://mclon.org Maria L CC-BY-SA_
 
-En https://mclon.org/electronica/protoshield/ tienes unos consejos para realizar correctamente las conexiones.
+En https://tecnoloxia.org/mclon/electronica/protoshield/ tienes unos consejos para realizar correctamente las conexiones.
 
 ## 3.4.1 Driver motor B6612FNG y 7404
 

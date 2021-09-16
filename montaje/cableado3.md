@@ -47,7 +47,7 @@ Nuestra propuesta de fijación al chasis es poner la resistencia en la parte deb
 
 ![](/assets/conexionchasisLDR.jpg)
 
->**info** Hay otras posibilidades de conexión, y fijación al chasis, incluso existe la posibilidad de poner dos LDRs uno al A3 y otro al A1, en total se pueden poner hasta 3 LDRs, para más info ver https://mclon.org/accesorios/sensor-de-luz/
+>**info** Hay otras posibilidades de conexión, y fijación al chasis, incluso existe la posibilidad de poner dos LDRs uno al A3 y otro al A1, en total se pueden poner hasta 3 LDRs, para más info ver https://tecnoloxia.org/mclon/accesorios/sensor-de-luz/
 
 ![](/assets/pinsLDR.png)
 

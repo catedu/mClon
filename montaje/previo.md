@@ -1,6 +1,6 @@
 # 3.1 Pasos previos
 
-Los pasos al detalle lo explica en https://mclon.org/estrutura/pasos-previos/ pero con la propuesta de Catedu sólo tenemos que seguir los siguientes pasos:
+Los pasos al detalle lo explica en https://tecnoloxia.org/mclon/estrutura/pasos-previos/ pero con la propuesta de Catedu sólo tenemos que seguir los siguientes pasos:
 
 ## 3.1.1 Lo que tienes que hacer tú
 
