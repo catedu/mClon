@@ -68,7 +68,3 @@ En la página https://mclon.org/ puedes encontrar interesantes propuestas en el 
 * Luces RGB https://tecnoloxia.org/mclon/extras/luces-de-cores/
 * Brazo robótico https://tecnoloxia.org/mclon/extras/brazo/
 * Siguiendo una luz https://tecnoloxia.org/mclon/extras/seguindo-a-luz/
-
-Y muchas más...
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">O segue luz non e moi espectacular, pero ten dous ....<br>LDR <a href="https://t.co/wNyDp1O5Hp">pic.twitter.com/wNyDp1O5Hp</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1061278328936693760?ref_src=twsrc%5Etfw">November 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -43,16 +43,8 @@ Luego tenemos que hacer los siguientes empalmes, conectados o mejor soldados y a
 
 _Fuente: Adaptado de https://mclon.org Maria L CC-BY-SA_
 
-Nuestra propuesta de fijación al chasis es poner la resistencia en la parte debajo del chasis, pasar los cables hacia el escudo Protoboard por los numerosos agujeros que hay en el chasis, y pasar el LDR por el agujero de los cables del sensor siguelíneas :
+Nuestra propuesta es de sólo **un LDR** pero recuerda que en [2.2](https://catedu.github.io/mClon/propuesta/extras.html) vimos una opción de poner dos LDRs con interesantes propuestas y fácilmente realizable.
+
+Por simplifiación, no se ha impreso en 3D ningún soporte especial LDR al chasis, pero en https://tecnoloxia.org/mclon/estrutura/impresion-3d/ lo tienes por si quieres imprimírtelo. Nosotros proponemos poner la resistencia en la parte debajo del chasis, pasar los cables hacia el escudo Protoboard por los numerosos agujeros que hay en el chasis, y pasar el LDR por el agujero de los cables del sensor siguelíneas :
 
 ![](/assets/conexionchasisLDR.jpg)
-
->**info** Hay otras posibilidades de conexión, y fijación al chasis, incluso existe la posibilidad de poner dos LDRs uno al A3 y otro al A1, en total se pueden poner hasta 3 LDRs, para más info ver https://tecnoloxia.org/mclon/accesorios/sensor-de-luz/
-
-![](/assets/pinsLDR.png)
-
-_Fuente: https://mclon.org Maria L CC-BY-SA_
-
-![](/assets/CaraArriba-768x298.jpg)
-
-_Fuente: https://mclon.org Maria L CC-BY-SA_

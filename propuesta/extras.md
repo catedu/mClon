@@ -52,6 +52,32 @@ En vez de estas, hay que instalar una librería MatrixLed y utilizar las instruc
 
 Por esta razón **NO** está en la propuesta de Catedu.
 
+## Dos LDRs
+
+Nuetra propuesta, por simplificar el robot, tiene **un LDR** conectado al A6 que sería el **sensor de luz abordo** pero fácilmente se pueden poner dos LDRs uno al A3 y otro al A1 que serían los equivalentes al **sensor de luz Puerto3** y el **sensor de luz puerto4**
+
+![](/assets/pinsLDR.png)
+
+_Fuente: https://mclon.org Maria L CC-BY-SA_
+
+>**info** En total se pueden poner **hasta 3 LDRs**.
+
+En la web https://tecnoloxia.org/mclon/estrutura/impresion-3d/ se pueden imprimir unos soportes especiales :
+
+![](/assets/CaraArriba-768x298.jpg)
+
+_Fuente: https://mclon.org Maria L CC-BY-SA_
+
+
+
+Para más info ver https://tecnoloxia.org/mclon/accesorios/sensor-de-luz/
+
+
+Con dos LDRs se pueden hacer cosas interesantes :
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">O segue luz non e moi espectacular, pero ten dous ....<br>LDR <a href="https://t.co/wNyDp1O5Hp">pic.twitter.com/wNyDp1O5Hp</a></p>&mdash; mClon (@mClonRobot) <a href="https://twitter.com/mClonRobot/status/1061278328936693760?ref_src=twsrc%5Etfw">November 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Un spoiler con cronómetro
 
 Se trata de una pantalla de cuatro dígitos que puede usarse como cronómetro, contador de eventos, etc..

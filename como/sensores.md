@@ -29,3 +29,5 @@ En https://tecnoloxia.org/mclon/robotica/o-sensor-ultrasonico/ explica muy bien 
 Es un LDR que conectado en serie con una resistencia nos proporciona un valor de tensión, pues el LDR varía su resistencia con la luz (a más luz, menos resistencia)
 
 ![](/assets/ldr.jpg)
+
+En nuestra propuesta sólo va a tener un LDR, pero se pueden añadir dos LDRs fácilmente, [ver 2.2](https://catedu.github.io/mClon/propuesta/extras.html)
