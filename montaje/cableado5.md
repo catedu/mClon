@@ -28,6 +28,10 @@
 
  _Fuente: https://mclon.org Maria L CC-BY-SA_
 
+ Si el led es 5mm cabe por el hueco, si es de 10mm tienes que ponerlo por encima :
+
+ ![](/assets/ledgordo.jpg) 
+
  ## 3.7.2 Brazo robot: Servomotor
 
  Coloca el servomotor en su soporte usando los tornillos que vienen en su bolsa:
