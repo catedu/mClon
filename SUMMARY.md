@@ -16,6 +16,7 @@
 * [2.2 Propuesta mClon vs mBot](propuesta/extras.md)
 * [2.3 Partes impresas](propuesta/partesimpresas.md)
 * [2.4 Lista de material](propuesta/listamaterial.md)
+* [2.5 18650](https://catedu.github.io/rover-marciano-alphabot/18650.html)
 
 ## 3 Montaje
 
