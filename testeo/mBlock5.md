@@ -24,4 +24,7 @@ Pon mClon **dependiendo del ordenador** y ejecuta dos clicks en esta instrucció
 
 ![](/assets/mBlock14.png)
 
+>**info**
+> ATENCIÓN salen cambiados, el ROJO con el VERDE es decir, cuando pides rojo, sale verde y cuando pides verde sale rojo, en el azul está bien
+
 Experimenta con diferentes valores, en https://tecnoloxia.org/mclon/extras/luces-de-cores/ tienes una explicación de todos los valores a utilizar y los colores que se obtienen.
