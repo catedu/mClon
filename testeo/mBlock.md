@@ -3,7 +3,9 @@
 >**info** Este tutorial no es un tutorial de programación de mBlock sólo se muestran algunas líneas principales de recordatorio.
 > Recomendamos visitar los tutoriales de mBot en https://catedu.github.io/robotica/tutoriales.html
 
- El programa mBlock se descaraga en http://www.mblock.cc/, recomendamos la vesión 3 pues lo soporte los equipos viejos, incluso Windows XP.
+ El programa mBlock se descarga en http://www.mblock.cc/, entra en **Download** y encontrarás diferentes versiones para diferentes sistemas operativos. Recomendamos la vesión **mBlock3** que aunque ya no se actualiza, es muy estable, se conecta sin problemas y es muy ligero, es capaz de funcionar en equipos viejos, incluso Windows XP.
+
+ ![](/assets/mblock-descarga.png)
 
  Una vez dentro del programa, seleccionamos mBot
 
